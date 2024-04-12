@@ -22,11 +22,11 @@ trait PrinterTrait8
     /**
      * @var int
      */
-    private $anyBarPort;
+    protected $anyBarPort;
     /**
      * @var bool
      */
-    private $anyBarEnabled;
+    protected $anyBarEnabled;
     /**
      * @var Color
      */
